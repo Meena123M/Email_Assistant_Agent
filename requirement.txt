@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+langchain_community
+google_generativeai
+google-api-python-client
+google-auth
+google-auth-oauthlib
